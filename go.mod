@@ -1,3 +1,3 @@
-module gitlab.com/linbuxiao/btree
+module github.com/linbuxiao/btree
 
 go 1.17
